@@ -41,7 +41,7 @@ function verificar(){
                 }else if(idade > 10 && idade <= 20){
                     img.setAttribute('src', 'images/mulherjovem.png')
                 }else if(idade > 20 && idade < 55){
-                    img.setAttribute('src', 'images/mulheradulto.png')
+                    img.setAttribute('src', 'images/mulheradulta.png')
                 }else{
                     img.setAttribute('src', 'images/mulheridosa.png')
                 }
